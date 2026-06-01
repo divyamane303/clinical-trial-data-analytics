@@ -27,3 +27,6 @@ Power BI dashboard created to analyze:
 - Adverse reactions
 - HbA1c improvement
 - Treatment effectiveness
+- ## Dashboard Preview
+
+![Clinical Trial Dashboard](clinical-trial-data-analytics_BI.png)
